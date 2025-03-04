@@ -5,7 +5,7 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const token = process.env.VITE_BOT_TOKEN || '7534362836:AAHYMsQuiVUhMMfxm2luE7yPpvzXR8nLl1w';
-const webAppUrl = process.env.VITE_WEBAPP_URL || 'https://classy-sable-b73afb.netlify.app';
+const token = process.env.VITE_BOT_TOKEN || 'new token';
+const webAppUrl = process.env.VITE_WEBAPP_URL || 'address';
 
 // Rest of the bot.ts file remains the same...
